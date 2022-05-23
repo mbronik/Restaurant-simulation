@@ -1,0 +1,257 @@
+12:26:9 - Items loaded from memory
+12:26:9 - The machine placed a random order no.1
+12:26:9 - The machine placed a random order no.2
+12:26:9 - The machine placed a random order no.3
+12:26:9 - The machine placed a random order no.4
+12:26:9 - The machine placed a random order no.5
+12:26:9 - The machine placed a random order no.6
+12:26:9 - The machine placed a random order no.7
+12:26:9 - The machine placed a random order no.8
+12:26:9 - The machine placed a random order no.9
+12:26:9 - The machine placed a random order no.10
+12:26:17 - Logged in as admin
+12:26:19 - The restaurant changes status to open
+12:26:19 - The kitchen changes status to open
+12:26:29 - The machine placed a random order no.11
+12:26:37 - Admin logged out
+12:26:57 - The machine placed a random order no.13
+12:27:4 - The kitchen has completed the order no.1
+12:27:4 - The waiter Ryszard Lubicz took the order to the table no.89
+	and got a tip 9.0 PLN
+12:27:17 - The kitchen has completed the order no.3
+12:27:17 - The waiter Elżbieta Chojnicka took the order to the table no.79
+	and got a tip 2.0 PLN
+12:27:28 - Logged in as admin
+12:27:30 - The kitchen has completed the order no.9
+12:27:30 - The waiter Elżbieta Chojnicka took the order to the table no.84
+	and got a tip 1.0 PLN
+12:27:40 - The machine placed a random order no.15
+12:28:2 - The kitchen has completed the order no.11
+12:28:2 - The waiter Ryszard Lubicz took the order to the table no.21
+	and got a tip 7.0 PLN
+12:28:10 - The machine placed a random order no.16
+12:28:14 - The machine placed a random order no.17
+12:28:27 - The kitchen has completed the order no.14
+12:28:27 - The waiter Ryszard Lubicz took the order to the table no.1010101
+	and got a tip 2.0 PLN
+12:28:40 - The kitchen has completed the order no.15
+12:28:40 - The waiter Marian Paździoch took the order to the table no.10
+	and got a tip 0.0 PLN
+12:28:42 - The machine placed a random order no.18
+12:28:55 - The machine placed a random order no.19
+12:29:18 - The kitchen has completed the order no.16
+12:29:18 - The waiter Marian Paździoch took the order to the table no.73
+	and got a tip 5.0 PLN
+12:29:52 - The machine placed a random order no.20
+12:30:10 - The kitchen has completed the order no.17
+12:30:10 - The waiter Elżbieta Chojnicka took the order to the table no.59
+	and got a tip 7.0 PLN
+12:30:49 - The machine placed a random order no.21
+12:30:54 - The kitchen has completed the order no.19
+12:30:54 - The waiter Ryszard Lubicz took the order to the table no.25
+	and got a tip 8.0 PLN
+12:31:42 - The machine placed a random order no.22
+12:31:58 - The kitchen has completed the order no.20
+12:31:58 - The waiter Marian Paździoch took the order to the table no.38
+	and got a tip 13.0 PLN
+12:32:31 - The machine placed a random order no.23
+12:32:50 - The kitchen has completed the order no.21
+12:32:50 - The waiter Marian Paździoch took the order to the table no.25
+	and got a tip 4.0 PLN
+12:32:56 - The kitchen has completed the order no.23
+12:32:56 - The waiter Elżbieta Chojnicka took the order to the table no.6
+	and got a tip 0.0 PLN
+12:33:20 - The machine placed a random order no.24
+12:33:41 - The kitchen has completed the order no.2
+12:33:41 - Deliverer Edward Listonosz (tel. +48525115955)
+		starting delivery of the order no.2 from the hour 12:26:09
+12:33:58 - The machine placed a random order no.25
+12:34:3 - The deliverer Edward Listonoszdelivered order no.2to Kubusia Puchatka 25
+	and got a tip 3.0PLN
+12:34:6 - The kitchen has completed the order no.4
+12:34:6 - Deliverer Karol Krawczyk (tel. +48586845578)
+		starting delivery of the order no.4 from the hour 12:26:09
+12:34:25 - The deliverer Edward Listonoszcome back after delivery and he's ready for the next
+12:34:41 - The machine placed a random order no.26
+12:34:57 - The deliverer Karol Krawczykdelivered order no.4to Wojciecha Gorskiego 14
+	and got a tip 2.0PLN
+12:35:17 - The kitchen has completed the order no.25
+12:35:17 - The waiter Marian Paździoch took the order to the table no.52
+	and got a tip 6.0 PLN
+12:35:21 - The machine placed a random order no.27
+12:35:47 - The deliverer Karol Krawczykcome back after delivery and he's ready for the next
+12:35:55 - The kitchen has completed the order no.26
+12:35:55 - The waiter Elżbieta Chojnicka took the order to the table no.37
+	and got a tip 7.0 PLN
+12:36:8 - The kitchen has completed the order no.5
+12:36:8 - Deliverer Karol Krawczyk (tel. +48586845578)
+		starting delivery of the order no.5 from the hour 12:26:09
+12:36:10 - The machine placed a random order no.28
+12:36:46 - The kitchen has completed the order no.6
+12:36:46 - Deliverer Arnold Boczek (tel. +48600003446)
+		starting delivery of the order no.6 from the hour 12:26:09
+12:36:51 - The machine placed a random order no.29
+12:37:1 - The deliverer Karol Krawczykdelivered order no.5to Bartycka 68
+	and got a tip 0.0PLN
+12:37:8 - The machine placed a random order no.30
+12:37:36 - The machine placed a random order no.31
+12:37:43 - The deliverer Arnold Boczekdelivered order no.6to Kacza 20
+	and got a tip 1.0PLN
+12:37:50 - The kitchen has completed the order no.7
+12:37:50 - Deliverer Roman Kurski (tel. +48603599952)
+		starting delivery of the order no.7 from the hour 12:26:09
+12:37:53 - The deliverer Karol Krawczykcome back after delivery and he's ready for the next
+12:38:23 - The deliverer Roman Kurskidelivered order no.7to Bartycka 15
+	and got a tip 2.0PLN
+12:38:28 - The machine placed a random order no.32
+12:38:39 - The deliverer Arnold Boczekcome back after delivery and he's ready for the next
+12:38:56 - The deliverer Roman Kurskicome back after delivery and he's ready for the next
+12:39:7 - The kitchen has completed the order no.30
+12:39:7 - The waiter Elżbieta Chojnicka took the order to the table no.95
+	and got a tip 15.0 PLN
+12:39:16 - The machine placed a random order no.33
+12:39:20 - The machine placed a random order no.34
+12:39:33 - The kitchen has completed the order no.31
+12:39:33 - The waiter Marian Paździoch took the order to the table no.98
+	and got a tip 1.0 PLN
+12:40:5 - The kitchen has completed the order no.34
+12:40:5 - The waiter Marian Paździoch took the order to the table no.21
+	and got a tip 5.0 PLN
+12:40:11 - The kitchen has completed the order no.8
+12:40:11 - Deliverer Karol Krawczyk (tel. +48586845578)
+		starting delivery of the order no.8 from the hour 12:26:09
+12:40:16 - The machine placed a random order no.35
+12:40:48 - The deliverer Karol Krawczykdelivered order no.8to Kubusia Puchatka 25
+	and got a tip 0.0PLN
+12:41:2 - The machine placed a random order no.36
+12:41:15 - The kitchen has completed the order no.10
+12:41:15 - Deliverer Roman Kurski (tel. +48603599952)
+		starting delivery of the order no.10 from the hour 12:26:09
+12:41:22 - The machine placed a random order no.37
+12:41:24 - The deliverer Karol Krawczykcome back after delivery and he's ready for the next
+12:41:38 - The deliverer Roman Kurskidelivered order no.10to Biala 21
+	and got a tip 0.0PLN
+12:42:2 - Order no.12 expired and client decide to cancel order
+12:42:3 - Order no.13 expired and client gets a discount 17.0 PLN
+12:42:4 - The deliverer Roman Kurskicome back after delivery and he's ready for the next
+12:42:4 - The kitchen has completed the order no.35
+12:42:4 - The waiter Ryszard Lubicz took the order to the table no.32
+	and got a tip 6.0 PLN
+12:42:10 - The machine placed a random order no.38
+12:42:35 - The machine placed a random order no.39
+12:42:42 - The kitchen has completed the order no.12
+12:42:42 - Deliverer Roman Kurski (tel. +48603599952)
+		starting delivery of the order no.12 from the hour 12:26:47
+12:42:47 - The machine placed a random order no.40
+12:42:59 - The deliverer Roman Kurskidelivered order no.12to null null
+	and got a tip 0.0PLN
+12:43:15 - The deliverer Roman Kurskicome back after delivery and he's ready for the next
+12:43:39 - The machine placed a random order no.41
+12:43:40 - The kitchen has completed the order no.13
+12:43:40 - Deliverer Edward Listonosz (tel. +48525115955)
+		starting delivery of the order no.13 from the hour 12:26:57
+12:43:59 - The kitchen has completed the order no.38
+12:43:59 - The waiter Elżbieta Chojnicka took the order to the table no.88
+	and got a tip 3.0 PLN
+12:44:0 - The deliverer Edward Listonoszdelivered order no.13to Drewniana 79
+	and got a tip 0.0PLN
+12:44:10 - Order no.18 expired and client decide to cancel order
+12:44:11 - The machine placed a random order no.42
+12:44:21 - The deliverer Edward Listonoszcome back after delivery and he's ready for the next
+12:44:23 - Order no.18 expired and client decide to cancel order
+12:44:37 - Order no.18 expired and client gets a discount 14.0 PLN
+12:44:37 - The kitchen has completed the order no.39
+12:44:37 - The waiter Marian Paździoch took the order to the table no.48
+	and got a tip 8.0 PLN
+12:45:7 - The machine placed a random order no.43
+12:45:13 - The machine placed a random order no.44
+12:45:16 - The kitchen has completed the order no.41
+12:45:16 - The waiter Elżbieta Chojnicka took the order to the table no.26
+	and got a tip 6.0 PLN
+12:45:41 - The kitchen has completed the order no.42
+12:45:41 - The waiter Marian Paździoch took the order to the table no.13
+	and got a tip 3.0 PLN
+12:45:53 - The machine placed a random order no.45
+12:46:7 - The kitchen has completed the order no.18
+12:46:7 - Deliverer Karol Krawczyk (tel. +48586845578)
+		starting delivery of the order no.18 from the hour 12:28:42
+12:46:13 - The kitchen has completed the order no.43
+12:46:13 - The waiter Elżbieta Chojnicka took the order to the table no.61
+	and got a tip 1.0 PLN
+12:46:29 - The deliverer Karol Krawczykdelivered order no.18to Biala 40
+	and got a tip 0.0PLN
+12:46:43 - The machine placed a random order no.46
+12:46:52 - The deliverer Karol Krawczykcome back after delivery and he's ready for the next
+12:46:58 - The kitchen has completed the order no.22
+12:46:58 - Deliverer Edward Listonosz (tel. +48525115955)
+		starting delivery of the order no.22 from the hour 12:31:42
+12:47:19 - The deliverer Edward Listonoszdelivered order no.22to Biala 0
+	and got a tip 0.0PLN
+12:47:31 - The machine placed a random order no.47
+12:47:40 - The deliverer Edward Listonoszcome back after delivery and he's ready for the next
+12:47:56 - The kitchen has completed the order no.46
+12:47:56 - The waiter Elżbieta Chojnicka took the order to the table no.11
+	and got a tip 8.0 PLN
+12:48:9 - The kitchen has completed the order no.24
+12:48:9 - Deliverer Arnold Boczek (tel. +48600003446)
+		starting delivery of the order no.24 from the hour 12:33:20
+12:48:11 - The machine placed a random order no.48
+12:48:42 - The deliverer Arnold Boczekdelivered order no.24to Kubusia Puchatka 22
+	and got a tip 0.0PLN
+12:48:48 - The machine placed a random order no.49
+12:48:53 - The kitchen has completed the order no.27
+12:48:53 - Deliverer Roman Kurski (tel. +48603599952)
+		starting delivery of the order no.27 from the hour 12:35:21
+12:49:13 - The deliverer Roman Kurskidelivered order no.27to Graniczna 60
+	and got a tip 0.0PLN
+12:49:15 - The deliverer Arnold Boczekcome back after delivery and he's ready for the next
+12:49:24 - The machine placed a random order no.50
+12:49:32 - The deliverer Roman Kurskicome back after delivery and he's ready for the next
+12:50:10 - The kitchen has completed the order no.48
+12:50:10 - The waiter Ryszard Lubicz took the order to the table no.81
+	and got a tip 11.0 PLN
+12:50:22 - The machine placed a random order no.51
+12:50:29 - The kitchen has completed the order no.28
+12:50:29 - Deliverer Edward Listonosz (tel. +48525115955)
+		starting delivery of the order no.28 from the hour 12:36:10
+12:51:0 - The machine placed a random order no.52
+12:51:1 - The kitchen has completed the order no.51
+12:51:1 - The waiter Elżbieta Chojnicka took the order to the table no.91
+	and got a tip 8.0 PLN
+12:51:23 - The deliverer Edward Listonoszdelivered order no.28to Biala 25
+	and got a tip 0.0PLN
+12:51:46 - The kitchen has completed the order no.29
+12:51:46 - Deliverer Arnold Boczek (tel. +48600003446)
+		starting delivery of the order no.29 from the hour 12:36:51
+12:51:53 - The machine placed a random order no.53
+12:52:0 - The machine placed a random order no.54
+12:52:15 - The deliverer Arnold Boczekdelivered order no.29to Kubusia Puchatka 14
+	and got a tip 0.0PLN
+12:52:16 - The deliverer Edward Listonoszcome back after delivery and he's ready for the next
+12:52:29 - The machine placed a random order no.55
+12:52:36 - Admin logged out
+12:52:43 - The deliverer Arnold Boczekcome back after delivery and he's ready for the next
+12:53:1 - The machine placed a random order no.56
+12:53:3 - The kitchen has completed the order no.32
+12:53:3 - Deliverer Arnold Boczek (tel. +48600003446)
+		starting delivery of the order no.32 from the hour 12:38:28
+12:53:9 - The kitchen has completed the order no.54
+12:53:9 - The waiter Elżbieta Chojnicka took the order to the table no.62
+	and got a tip 0.0 PLN
+12:53:13 - Logged in as admin
+12:53:29 - The kitchen has completed the order no.55
+12:53:29 - The waiter Elżbieta Chojnicka took the order to the table no.93
+	and got a tip 4.0 PLN
+12:53:43 - The deliverer Arnold Boczekdelivered order no.32to Bartycka 16
+	and got a tip 0.0PLN
+12:53:44 - The machine placed a random order no.57
+12:53:48 - The kitchen has completed the order no.33
+12:53:48 - Deliverer Edward Listonosz (tel. +48525115955)
+		starting delivery of the order no.33 from the hour 12:39:16
+12:53:52 - The machine placed a random order no.58
+12:53:58 - The machine placed a random order no.59
+12:54:21 - The deliverer Edward Listonoszdelivered order no.33to Kubusia Puchatka 36
+	and got a tip 0.0PLN
+12:54:23 - The restaurant changes status to close
+12:54:24 - Admin forced the termination of kitchens and suppliers
+12:54:24 - Closing the application

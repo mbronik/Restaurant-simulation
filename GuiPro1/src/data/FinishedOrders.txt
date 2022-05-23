@@ -1,0 +1,968 @@
+19.05.2022, 01:40:11 - Kitchen start working
+1:40:52 - Stationary order no. 1 prepared
+	3x Mały kebab 10.0 | 30.0
+	3x Duży kebab 18.0 | 54.0
+	2x Średni kebab 13.0 | 26.0
+
+
+1:41:17 - Stationary order no. 4 prepared
+	1x Duży kebab 18.0 | 18.0
+	2x Małe frytki 4.99 | 9.98
+	2x Mały kebab 10.0 | 20.0
+
+
+1:41:28 - Stationary order no. 5 prepared
+	2x Male Latte 9.99 | 19.98
+
+
+1:42:9 - Stationary order no. 6 prepared
+	3x Średni kebab 13.0 | 39.0
+	2x Male Latte 9.99 | 19.98
+	3x Male Latte 9.99 | 29.97
+
+
+1:43:0 - Stationary order no. 7 prepared
+	4x Małe frytki 4.99 | 19.96
+	2x Giga burger 17.99 | 35.98
+	1x Małe frytki 4.99 | 4.99
+	3x Małe frytki 4.99 | 14.97
+
+
+1:43:15 - Stationary order no. 9 prepared
+	2x Średni kebab 13.0 | 26.0
+	1x Średni kebab 13.0 | 13.0
+
+
+1:43:31 - Stationary order no. 11 prepared
+	3x Małe frytki 4.99 | 14.97
+
+
+1:44:6 - Stationary order no. 12 prepared
+	2x Mały burger 8.99 | 17.98
+	3x Male Latte 9.99 | 29.97
+	1x Duży kebab 18.0 | 18.0
+	1x Duże frytki 7.99 | 7.99
+
+
+1:44:52 - Stationary order no. 14 prepared
+	4x Male Latte 9.99 | 39.96
+	4x Mały kebab 10.0 | 40.0
+	1x Duży kebab 18.0 | 18.0
+
+
+1:45:39 - Stationary order no. 15 prepared
+	3x Giga burger 17.99 | 53.97
+	4x Male Latte 9.99 | 39.96
+	2x Średni kebab 13.0 | 26.0
+
+
+1:45:59 - Stationary order no. 16 prepared
+	1x Mały kebab 10.0 | 10.0
+	2x Mały kebab 10.0 | 20.0
+	1x Male Latte 9.99 | 9.99
+
+
+1:46:4 - Stationary order no. 17 prepared
+	1x Średni kebab 13.0 | 13.0
+
+
+1:46:30 - Stationary order no. 19 prepared
+	3x Giga burger 17.99 | 53.97
+	2x Male Latte 9.99 | 19.98
+
+
+1:46:40 - Online order no. 2 prepared
+	2x Mały kebab 10.0 | 20.0
+
+
+1:47:36 - Stationary order no. 23 prepared
+	3x Male Latte 9.99 | 29.97
+	4x Giga burger 17.99 | 71.96
+	4x Duży kebab 18.0 | 72.0
+
+
+1:48:17 - Stationary order no. 24 prepared
+	3x Średni kebab 13.0 | 39.0
+	2x Mały kebab 10.0 | 20.0
+	1x Giga burger 17.99 | 17.99
+	2x Male Latte 9.99 | 19.98
+
+
+1:48:38 - Online order no. 3 prepared
+	4x Giga burger 17.99 | 71.96
+
+
+1:49:14 - Online order no. 8 prepared
+	1x Mały burger 8.99 | 8.99
+	4x Mały kebab 10.0 | 40.0
+	2x Giga burger 17.99 | 35.98
+
+
+1:50:5 - Stationary order no. 27 prepared
+	4x Małe frytki 4.99 | 19.96
+	2x Male Latte 9.99 | 19.98
+	2x Mały burger 8.99 | 17.98
+	2x Giga burger 17.99 | 35.98
+
+
+1:50:56 - Stationary order no. 28 prepared
+	3x Mały kebab 10.0 | 30.0
+	3x Małe frytki 4.99 | 14.97
+	4x Małe frytki 4.99 | 19.96
+
+
+1:51:51 - Stationary order no. 29 prepared
+	4x Duży kebab 18.0 | 72.0
+	3x Małe frytki 4.99 | 14.97
+	4x Giga burger 17.99 | 71.96
+
+
+1:52:6 - Stationary order no. 31 prepared
+	2x Duży kebab 18.0 | 36.0
+	1x Duży kebab 18.0 | 18.0
+
+
+1:52:42 - Stationary order no. 32 prepared
+	4x Mały kebab 10.0 | 40.0
+	3x Małe frytki 4.99 | 14.97
+
+
+1:53:8 - Online order no. 10 prepared
+	4x Mały kebab 10.0 | 40.0
+	1x Mały burger 8.99 | 8.99
+
+
+1:53:28 - Online order no. 13 prepared
+	4x Male Latte 9.99 | 39.96
+
+
+1:53:54 - Online order no. 18 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Duży kebab 18.0 | 36.0
+	2x Średni kebab 13.0 | 26.0
+
+
+1:54:19 - Online order no. 20 prepared
+	1x Giga burger 17.99 | 17.99
+	4x Duży kebab 18.0 | 72.0
+
+
+1:54:24 - Online order no. 21 prepared
+	1x Małe frytki 4.99 | 4.99
+
+
+1:54:35 - Stationary order no. 36 prepared
+	2x Średni kebab 13.0 | 26.0
+
+
+1:55:0 - Stationary order no. 37 prepared
+	4x Mały kebab 10.0 | 40.0
+	1x Duży kebab 18.0 | 18.0
+
+
+1:55:36 - Online order no. 22 prepared
+	1x Duże frytki 7.99 | 7.99
+	3x Średni kebab 13.0 | 39.0
+	3x Duży kebab 18.0 | 54.0
+
+
+1:56:2 - Online order no. 25 prepared
+	2x Giga burger 17.99 | 35.98
+	3x Duży kebab 18.0 | 54.0
+
+
+1:56:12 - Online order no. 26 prepared
+	2x Giga burger 17.99 | 35.98
+
+
+1:56:53 - Online order no. 30 prepared
+	1x Mały burger 8.99 | 8.99
+	3x Mały kebab 10.0 | 30.0
+	4x Duży kebab 18.0 | 72.0
+
+
+1:57:19 - Online order no. 33 prepared
+	4x Mały burger 8.99 | 35.96
+	1x Mały burger 8.99 | 8.99
+
+
+1:57:54 - Online order no. 34 prepared
+	3x Giga burger 17.99 | 53.97
+	2x Średni kebab 13.0 | 26.0
+	2x Giga burger 17.99 | 35.98
+
+
+1:58:35 - Stationary order no. 42 prepared
+	3x Male Latte 9.99 | 29.97
+	1x Małe frytki 4.99 | 4.99
+	2x Mały burger 8.99 | 17.98
+	2x Duży kebab 18.0 | 36.0
+
+
+1:58:56 - Online order no. 35 prepared
+	2x Duży kebab 18.0 | 36.0
+	2x Male Latte 9.99 | 19.98
+
+
+19.05.2022, 01:59:25 - Kitchen start working
+1:59:35 - Online order no. 1 prepared
+	1x Duży kebab 18.0 | 18.0
+	1x Duży kebab 18.0 | 18.0
+
+
+2:0:6 - Stationary order no. 2 prepared
+	4x Mały burger 8.99 | 35.96
+	2x Mały kebab 10.0 | 20.0
+
+
+2:0:52 - Stationary order no. 3 prepared
+	1x Mały kebab 10.0 | 10.0
+	1x Mały burger 8.99 | 8.99
+	3x Mały burger 8.99 | 26.97
+	4x Mały kebab 10.0 | 40.0
+
+
+2:1:17 - Stationary order no. 4 prepared
+	1x Giga burger 17.99 | 17.99
+	4x Duży kebab 18.0 | 72.0
+
+
+2:1:48 - Stationary order no. 5 prepared
+	4x Giga burger 17.99 | 71.96
+	2x Mały burger 8.99 | 17.98
+
+
+2:2:55 - Stationary order no. 7 prepared
+	4x Średni kebab 13.0 | 52.0
+	4x Mały burger 8.99 | 35.96
+	3x Mały burger 8.99 | 26.97
+	2x Średni kebab 13.0 | 26.0
+
+
+2:3:15 - Stationary order no. 8 prepared
+	2x Mały kebab 10.0 | 20.0
+	1x Male Latte 9.99 | 9.99
+	1x Średni kebab 13.0 | 13.0
+
+
+2:3:46 - Stationary order no. 9 prepared
+	3x Średni kebab 13.0 | 39.0
+	2x Małe frytki 4.99 | 9.98
+	1x Male Latte 9.99 | 9.99
+
+
+2:4:1 - Stationary order no. 10 prepared
+	3x Male Latte 9.99 | 29.97
+
+
+2:4:17 - Stationary order no. 11 prepared
+	2x Mały kebab 10.0 | 20.0
+	1x Mały burger 8.99 | 8.99
+
+
+2:5:8 - Stationary order no. 12 prepared
+	4x Mały burger 8.99 | 35.96
+	2x Giga burger 17.99 | 35.98
+	3x Duży kebab 18.0 | 54.0
+	1x Giga burger 17.99 | 17.99
+
+
+19.05.2022, 19:05:35 - Kitchen start working
+19:5:45 - Online order no. 1 prepared
+	2x Duży kebab 18.0 | 36.0
+
+
+19:5:55 - Stationary order no. 4 prepared
+	2x Mały burger 8.99 | 17.98
+
+
+19:6:36 - Stationary order no. 5 prepared
+	2x Mały burger 8.99 | 17.98
+	2x Mały kebab 10.0 | 20.0
+	4x Duży kebab 18.0 | 72.0
+
+
+19:6:46 - Stationary order no. 9 prepared
+	2x Mały burger 8.99 | 17.98
+
+
+19:7:12 - Stationary order no. 10 prepared
+	1x Średni kebab 13.0 | 13.0
+	3x Duży kebab 18.0 | 54.0
+	1x Duży kebab 18.0 | 18.0
+
+
+19:7:58 - Stationary order no. 15 prepared
+	4x Mały burger 8.99 | 35.96
+	2x Giga burger 17.99 | 35.98
+	3x Duży kebab 18.0 | 54.0
+
+
+19:8:44 - Stationary order no. 16 prepared
+	3x Duży kebab 18.0 | 54.0
+	1x Giga burger 17.99 | 17.99
+	3x Mały kebab 10.0 | 30.0
+	2x Duży kebab 18.0 | 36.0
+
+
+19:8:59 - Stationary order no. 17 prepared
+	1x Male Latte 9.99 | 9.99
+	2x Duży kebab 18.0 | 36.0
+
+
+19:9:30 - Stationary order no. 18 prepared
+	3x Giga burger 17.99 | 53.97
+	2x Mały kebab 10.0 | 20.0
+	1x Giga burger 17.99 | 17.99
+
+
+19:10:21 - Online order no. 2 prepared
+	2x Mały burger 8.99 | 17.98
+	1x Mały kebab 10.0 | 10.0
+	4x Mały burger 8.99 | 35.96
+	3x Duży kebab 18.0 | 54.0
+
+
+19:10:52 - Online order no. 3 prepared
+	4x Giga burger 17.99 | 71.96
+	1x Mały burger 8.99 | 8.99
+	1x Małe frytki 4.99 | 4.99
+
+
+19:11:23 - Stationary order no. 25 prepared
+	3x Średni kebab 13.0 | 39.0
+	3x Małe frytki 4.99 | 14.97
+
+
+19:11:48 - Stationary order no. 26 prepared
+	3x Małe frytki 4.99 | 14.97
+	2x Małe frytki 4.99 | 9.98
+
+
+19:12:9 - Online order no. 6 prepared
+	2x Male Latte 9.99 | 19.98
+	2x Średni kebab 13.0 | 26.0
+
+
+19:12:29 - Online order no. 7 prepared
+	4x Duży kebab 18.0 | 72.0
+
+
+19:12:55 - Stationary order no. 29 prepared
+	1x Średni kebab 13.0 | 13.0
+	4x Małe frytki 4.99 | 19.96
+
+
+19.05.2022, 19:25:56 - Kitchen start working
+19.05.2022, 20:27:22 - Kitchen start working
+19.05.2022, 21:02:33 - Kitchen start working
+21:2:48 - Stationary order no. 4 prepared
+	3x Giga burger 17.99 | 53.97
+
+
+21:3:29 - Stationary order no. 7 prepared
+	4x Małe frytki 4.99 | 19.96
+	4x Duży kebab 18.0 | 72.0
+
+
+21:4:0 - Stationary order no. 8 prepared
+	2x Średni kebab 13.0 | 26.0
+	2x Mały burger 8.99 | 17.98
+	2x Giga burger 17.99 | 35.98
+
+
+21:4:20 - Stationary order no. 9 prepared
+	4x Duży kebab 18.0 | 72.0
+
+
+21:4:51 - Stationary order no. 10 prepared
+	4x Małe frytki 4.99 | 19.96
+	2x Duży kebab 18.0 | 36.0
+
+
+21:5:37 - Stationary order no. 13 prepared
+	2x Średni kebab 13.0 | 26.0
+	3x Mały kebab 10.0 | 30.0
+	4x Mały kebab 10.0 | 40.0
+
+
+21:6:3 - Stationary order no. 14 prepared
+	1x Giga burger 17.99 | 17.99
+	4x Male Latte 9.99 | 39.96
+
+
+21:6:18 - Stationary order no. 16 prepared
+	3x Średni kebab 13.0 | 39.0
+
+
+21:6:49 - Stationary order no. 17 prepared
+	2x Średni kebab 13.0 | 26.0
+	1x Giga burger 17.99 | 17.99
+	3x Mały burger 8.99 | 26.97
+
+
+21:7:35 - Online order no. 1 prepared
+	4x Duży kebab 18.0 | 72.0
+	1x Małe frytki 4.99 | 4.99
+	4x Male Latte 9.99 | 39.96
+
+
+21:8:16 - Online order no. 2 prepared
+	3x Mały kebab 10.0 | 30.0
+	4x Duży kebab 18.0 | 72.0
+	1x Mały burger 8.99 | 8.99
+
+
+21:8:47 - Stationary order no. 22 prepared
+	1x Średni kebab 13.0 | 13.0
+	2x Male Latte 9.99 | 19.98
+	3x Małe frytki 4.99 | 14.97
+
+
+19.05.2022, 21:15:07 - Kitchen start working
+21:15:27 - Stationary order no. 1 prepared
+	4x Mały burger 8.99 | 35.96
+
+
+21:15:48 - Stationary order no. 2 prepared
+	1x Małe frytki 4.99 | 4.99
+	3x Małe frytki 4.99 | 14.97
+
+
+21:16:39 - Stationary order no. 3 prepared
+	4x Małe frytki 4.99 | 19.96
+	3x Giga burger 17.99 | 53.97
+	3x Male Latte 9.99 | 29.97
+
+
+21:16:54 - Stationary order no. 5 prepared
+	3x Średni kebab 13.0 | 39.0
+
+
+21:17:30 - Stationary order no. 6 prepared
+	1x Małe frytki 4.99 | 4.99
+	2x Mały burger 8.99 | 17.98
+	2x Giga burger 17.99 | 35.98
+	2x Małe frytki 4.99 | 9.98
+
+
+21:17:56 - Stationary order no. 10 prepared
+	1x Mały kebab 10.0 | 10.0
+	4x Mały kebab 10.0 | 40.0
+
+
+21:18:37 - Stationary order no. 12 prepared
+	4x Duży kebab 18.0 | 72.0
+	4x Mały kebab 10.0 | 40.0
+
+
+21:19:18 - Online order no. 4 prepared
+	2x Giga burger 17.99 | 35.98
+	2x Male Latte 9.99 | 19.98
+	4x Średni kebab 13.0 | 52.0
+
+
+21:19:43 - Online order no. 7 prepared
+	1x Mały kebab 10.0 | 10.0
+	4x Mały burger 8.99 | 35.96
+
+
+21:20:24 - Stationary order no. 20 prepared
+	1x Mały burger 8.99 | 8.99
+	3x Duży kebab 18.0 | 54.0
+	4x Mały kebab 10.0 | 40.0
+
+
+21:21:15 - Stationary order no. 22 prepared
+	4x Mały kebab 10.0 | 40.0
+	3x Małe frytki 4.99 | 14.97
+	3x Mały burger 8.99 | 26.97
+
+
+21:21:31 - Stationary order no. 24 prepared
+	3x Mały burger 8.99 | 26.97
+
+
+21:21:51 - Online order no. 8 prepared
+	2x Male Latte 9.99 | 19.98
+	2x Male Latte 9.99 | 19.98
+
+
+21:22:1 - Stationary order no. 25 prepared
+	2x Giga burger 17.99 | 35.98
+
+
+21:22:37 - Online order no. 9 prepared
+	3x Średni kebab 13.0 | 39.0
+	4x Giga burger 17.99 | 71.96
+
+
+21:23:3 - Stationary order no. 26 prepared
+	1x Mały kebab 10.0 | 10.0
+	4x Średni kebab 13.0 | 52.0
+
+
+21:23:44 - Stationary order no. 27 prepared
+	4x Giga burger 17.99 | 71.96
+	4x Średni kebab 13.0 | 52.0
+
+
+19.05.2022, 21:23:51 - Kitchen start working
+21:24:12 - Stationary order no. 1 prepared
+	4x Średni kebab 13.0 | 52.0
+21:24:43 - Stationary order no. 2 prepared
+	1x Male Latte 9.99 | 9.99
+	3x Male Latte 9.99 | 29.97
+	2x Średni kebab 13.0 | 26.0
+21:25:3 - Stationary order no. 5 prepared
+	4x Średni kebab 13.0 | 52.0
+21:25:13 - Stationary order no. 6 prepared
+	2x Małe frytki 4.99 | 9.98
+21:25:34 - Stationary order no. 8 prepared
+	4x Mały burger 8.99 | 35.96
+21:25:59 - Stationary order no. 11 prepared
+	2x Giga burger 17.99 | 35.98
+	3x Średni kebab 13.0 | 39.0
+21:26:10 - Stationary order no. 12 prepared
+	2x Male Latte 9.99 | 19.98
+21:26:20 - Stationary order no. 15 prepared
+	2x Duży kebab 18.0 | 36.0
+21:26:40 - Online order no. 3 prepared
+	4x Giga burger 17.99 | 71.96
+21:27:6 - Online order no. 4 prepared
+	3x Średni kebab 13.0 | 39.0
+	1x Mały kebab 10.0 | 10.0
+	1x Male Latte 9.99 | 9.99
+21:27:57 - Stationary order no. 16 prepared
+	4x Giga burger 17.99 | 71.96
+	2x Średni kebab 13.0 | 26.0
+	4x Małe frytki 4.99 | 19.96
+21:28:23 - Stationary order no. 17 prepared
+	4x Mały burger 8.99 | 35.96
+	1x Duży kebab 18.0 | 18.0
+21:28:53 - Stationary order no. 20 prepared
+	3x Mały burger 8.99 | 26.97
+	3x Mały kebab 10.0 | 30.0
+21:29:19 - Stationary order no. 21 prepared
+	2x Mały kebab 10.0 | 20.0
+	2x Małe frytki 4.99 | 9.98
+	1x Male Latte 9.99 | 9.99
+21:29:24 - Online order no. 7 prepared
+	1x Giga burger 17.99 | 17.99
+21:30:15 - Stationary order no. 23 prepared
+	1x Duży kebab 18.0 | 18.0
+	1x Duży kebab 18.0 | 18.0
+	4x Duży kebab 18.0 | 72.0
+	4x Duży kebab 18.0 | 72.0
+21:30:51 - Online order no. 9 prepared
+	3x Giga burger 17.99 | 53.97
+	4x Małe frytki 4.99 | 19.96
+21:31:27 - Online order no. 10 prepared
+	3x Małe frytki 4.99 | 14.97
+	2x Male Latte 9.99 | 19.98
+	2x Średni kebab 13.0 | 26.0
+21:31:37 - Online order no. 13 prepared
+	1x Giga burger 17.99 | 17.99
+	1x Giga burger 17.99 | 17.99
+21:31:48 - Online order no. 14 prepared
+	2x Mały kebab 10.0 | 20.0
+21:32:34 - Online order no. 18 prepared
+	1x Duży kebab 18.0 | 18.0
+	4x Średni kebab 13.0 | 52.0
+	4x Małe frytki 4.99 | 19.96
+21:32:44 - Online order no. 19 prepared
+	2x Małe frytki 4.99 | 9.98
+21:33:4 - Online order no. 22 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Mały kebab 10.0 | 20.0
+	1x Średni kebab 13.0 | 13.0
+21:33:45 - Online order no. 24 prepared
+	2x Male Latte 9.99 | 19.98
+	4x Małe frytki 4.99 | 19.96
+	2x Duży kebab 18.0 | 36.0
+21:34:21 - Stationary order no. 29 prepared
+	3x Male Latte 9.99 | 29.97
+	4x Średni kebab 13.0 | 52.0
+21:34:31 - Online order no. 25 prepared
+	2x Średni kebab 13.0 | 26.0
+21:35:17 - Stationary order no. 31 prepared
+	4x Mały kebab 10.0 | 40.0
+	1x Male Latte 9.99 | 9.99
+	2x Mały burger 8.99 | 17.98
+	2x Duży kebab 18.0 | 36.0
+21:35:23 - Online order no. 26 prepared
+	1x Małe frytki 4.99 | 4.99
+21:35:58 - Stationary order no. 32 prepared
+	1x Duży kebab 18.0 | 18.0
+	2x Mały burger 8.99 | 17.98
+	4x Duży kebab 18.0 | 72.0
+21:36:24 - Online order no. 27 prepared
+	3x Małe frytki 4.99 | 14.97
+	2x Giga burger 17.99 | 35.98
+21:37:5 - Online order no. 28 prepared
+	4x Male Latte 9.99 | 39.96
+	4x Duży kebab 18.0 | 72.0
+21:37:36 - Stationary order no. 34 prepared
+	2x Duży kebab 18.0 | 36.0
+	4x Małe frytki 4.99 | 19.96
+21:38:6 - Stationary order no. 35 prepared
+	1x Mały burger 8.99 | 8.99
+	4x Małe frytki 4.99 | 19.96
+	1x Giga burger 17.99 | 17.99
+21:38:32 - Online order no. 30 prepared
+	1x Mały kebab 10.0 | 10.0
+	4x Mały kebab 10.0 | 40.0
+21:39:3 - Online order no. 33 prepared
+	2x Duży kebab 18.0 | 36.0
+	1x Duży kebab 18.0 | 18.0
+	3x Duży kebab 18.0 | 54.0
+21:39:18 - Online order no. 36 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Małe frytki 4.99 | 9.98
+21:39:59 - Online order no. 37 prepared
+	4x Małe frytki 4.99 | 19.96
+	4x Średni kebab 13.0 | 52.0
+21:40:30 - Stationary order no. 40 prepared
+	4x Mały kebab 10.0 | 40.0
+	2x Małe frytki 4.99 | 9.98
+21:41:36 - Stationary order no. 41 prepared
+	3x Małe frytki 4.99 | 14.97
+	3x Mały burger 8.99 | 26.97
+	4x Mały burger 8.99 | 35.96
+	3x Małe frytki 4.99 | 14.97
+21:42:22 - Online order no. 38 prepared
+	2x Giga burger 17.99 | 35.98
+	3x Male Latte 9.99 | 29.97
+	4x Mały kebab 10.0 | 40.0
+21:42:33 - Stationary order no. 43 prepared
+	2x Mały burger 8.99 | 17.98
+21:43:9 - Stationary order no. 44 prepared
+	4x Mały kebab 10.0 | 40.0
+	3x Male Latte 9.99 | 29.97
+21:43:34 - Stationary order no. 45 prepared
+	1x Mały kebab 10.0 | 10.0
+	4x Średni kebab 13.0 | 52.0
+21:44:0 - Stationary order no. 47 prepared
+	4x Mały kebab 10.0 | 40.0
+	1x Male Latte 9.99 | 9.99
+21:44:25 - Stationary order no. 48 prepared
+	2x Duży kebab 18.0 | 36.0
+	3x Mały kebab 10.0 | 30.0
+21:45:22 - Online order no. 39 prepared
+	4x Średni kebab 13.0 | 52.0
+	1x Giga burger 17.99 | 17.99
+	3x Duży kebab 18.0 | 54.0
+	3x Mały burger 8.99 | 26.97
+21:46:8 - Stationary order no. 50 prepared
+	3x Mały kebab 10.0 | 30.0
+	3x Male Latte 9.99 | 29.97
+	3x Duży kebab 18.0 | 54.0
+21:46:59 - Online order no. 42 prepared
+	4x Mały burger 8.99 | 35.96
+	4x Giga burger 17.99 | 71.96
+	2x Duży kebab 18.0 | 36.0
+21:47:4 - Online order no. 46 prepared
+	1x Średni kebab 13.0 | 13.0
+21:47:9 - Online order no. 49 prepared
+	1x Mały kebab 10.0 | 10.0
+21:47:40 - Online order no. 51 prepared
+	4x Mały burger 8.99 | 35.96
+	2x Mały kebab 10.0 | 20.0
+21:47:45 - Online order no. 52 prepared
+	1x Mały kebab 10.0 | 10.0
+21:48:31 - Stationary order no. 55 prepared
+	1x Male Latte 9.99 | 9.99
+	4x Duży kebab 18.0 | 72.0
+	4x Duży kebab 18.0 | 72.0
+21:49:2 - Online order no. 53 prepared
+	2x Małe frytki 4.99 | 9.98
+	4x Giga burger 17.99 | 71.96
+21:49:53 - Stationary order no. 57 prepared
+	4x Średni kebab 13.0 | 52.0
+	4x Male Latte 9.99 | 39.96
+	1x Małe frytki 4.99 | 4.99
+	1x Duży kebab 18.0 | 18.0
+21:50:39 - Stationary order no. 58 prepared
+	2x Giga burger 17.99 | 35.98
+	3x Mały burger 8.99 | 26.97
+	4x Małe frytki 4.99 | 19.96
+21:50:44 - Stationary order no. 59 prepared
+	1x Duży kebab 18.0 | 18.0
+21:51:25 - Online order no. 54 prepared
+	1x Mały burger 8.99 | 8.99
+	4x Średni kebab 13.0 | 52.0
+	3x Mały kebab 10.0 | 30.0
+21:51:51 - Stationary order no. 62 prepared
+	2x Male Latte 9.99 | 19.98
+	3x Giga burger 17.99 | 53.97
+21:52:16 - Online order no. 56 prepared
+	1x Mały burger 8.99 | 8.99
+	4x Giga burger 17.99 | 71.96
+21:52:22 - Online order no. 60 prepared
+	1x Giga burger 17.99 | 17.99
+21:53:8 - Stationary order no. 65 prepared
+	4x Średni kebab 13.0 | 52.0
+	2x Średni kebab 13.0 | 26.0
+	3x Mały burger 8.99 | 26.97
+21:53:23 - Online order no. 61 prepared
+	2x Giga burger 17.99 | 35.98
+	1x Giga burger 17.99 | 17.99
+21:54:35 - Stationary order no. 66 prepared
+	4x Male Latte 9.99 | 39.96
+	4x Duży kebab 18.0 | 72.0
+	2x Średni kebab 13.0 | 26.0
+	4x Małe frytki 4.99 | 19.96
+21:54:45 - Stationary order no. 69 prepared
+	2x Małe frytki 4.99 | 9.98
+21:55:31 - Online order no. 63 prepared
+	2x Mały burger 8.99 | 17.98
+	4x Giga burger 17.99 | 71.96
+	3x Duży kebab 18.0 | 54.0
+21:56:12 - Online order no. 64 prepared
+	2x Mały burger 8.99 | 17.98
+	3x Male Latte 9.99 | 29.97
+	3x Średni kebab 13.0 | 39.0
+21:56:32 - Online order no. 67 prepared
+	1x Male Latte 9.99 | 9.99
+	2x Małe frytki 4.99 | 9.98
+	1x Giga burger 17.99 | 17.99
+21:57:8 - Online order no. 68 prepared
+	4x Mały kebab 10.0 | 40.0
+	3x Mały burger 8.99 | 26.97
+21:57:34 - Online order no. 70 prepared
+	2x Średni kebab 13.0 | 26.0
+	3x Małe frytki 4.99 | 14.97
+21:57:49 - Stationary order no. 76 prepared
+	3x Mały kebab 10.0 | 30.0
+21:58:46 - Online order no. 71 prepared
+	2x Mały burger 8.99 | 17.98
+	4x Średni kebab 13.0 | 52.0
+	3x Giga burger 17.99 | 53.97
+	2x Małe frytki 4.99 | 9.98
+21:59:21 - Stationary order no. 77 prepared
+	4x Mały kebab 10.0 | 40.0
+	2x Giga burger 17.99 | 35.98
+	1x Średni kebab 13.0 | 13.0
+21:59:32 - Online order no. 72 prepared
+	1x Male Latte 9.99 | 9.99
+	1x Giga burger 17.99 | 17.99
+21:59:57 - Online order no. 73 prepared
+	1x Średni kebab 13.0 | 13.0
+	4x Mały burger 8.99 | 35.96
+22:0:28 - Online order no. 74 prepared
+	1x Mały burger 8.99 | 8.99
+	4x Duży kebab 18.0 | 72.0
+	1x Średni kebab 13.0 | 13.0
+22:1:45 - Online order no. 75 prepared
+	4x Małe frytki 4.99 | 19.96
+	3x Male Latte 9.99 | 29.97
+	4x Średni kebab 13.0 | 52.0
+	4x Mały burger 8.99 | 35.96
+20.05.2022, 11:43:43 - Kitchen start working
+11:44:34 - Stationary order no. 2 prepared
+	1x Średni kebab 13.0 | 13.0
+	4x Mały kebab 10.0 | 40.0
+	3x Giga burger 17.99 | 53.97
+11:45:32 - Stationary order no. 3 prepared
+	4x Małe frytki 4.99 | 19.96
+	1x Mały kebab 10.0 | 10.0
+	1x Giga burger 17.99 | 17.99
+	3x Mały kebab 10.0 | 30.0
+11:45:38 - Stationary order no. 7 prepared
+	1x Mały burger 8.99 | 8.99
+11:46:29 - Stationary order no. 8 prepared
+	4x Średni kebab 13.0 | 52.0
+	4x Giga burger 17.99 | 71.96
+11:47:8 - Stationary order no. 9 prepared
+	2x Mały kebab 10.0 | 20.0
+	4x Giga burger 17.99 | 71.96
+11:47:52 - Stationary order no. 11 prepared
+	3x Male Latte 9.99 | 29.97
+	4x Giga burger 17.99 | 71.96
+20.05.2022, 11:48:05 - Kitchen start working
+11:48:37 - Stationary order no. 3 prepared
+	3x Średni kebab 13.0 | 39.0
+	2x Mały burger 8.99 | 17.98
+11:49:16 - Stationary order no. 4 prepared
+	2x Mały kebab 10.0 | 20.0
+	2x Male Latte 9.99 | 19.98
+	2x Małe frytki 4.99 | 9.98
+20.05.2022, 12:26:19 - Kitchen start working
+12:27:4 - Stationary order no. 1 prepared
+	4x Giga burger 17.99 | 71.96
+	3x Mały kebab 10.0 | 30.0
+12:27:17 - Stationary order no. 3 prepared
+	1x Średni kebab 13.0 | 13.0
+	1x Mały burger 8.99 | 8.99
+12:27:30 - Stationary order no. 9 prepared
+	2x Male Latte 9.99 | 19.98
+12:28:2 - Stationary order no. 11 prepared
+	4x Giga burger 17.99 | 71.96
+	1x Mały kebab 10.0 | 10.0
+12:28:27 - Stationary order no. 14 prepared
+	4x Duże frytki 7.99 | 31.96
+12:28:40 - Stationary order no. 15 prepared
+	2x Małe frytki 4.99 | 9.98
+12:29:18 - Stationary order no. 16 prepared
+	2x Małe frytki 4.99 | 9.98
+	1x Duży kebab 18.0 | 18.0
+	3x Mały kebab 10.0 | 30.0
+12:30:10 - Stationary order no. 17 prepared
+	3x Duży kebab 18.0 | 54.0
+	1x Male Latte 9.99 | 9.99
+	4x Małe frytki 4.99 | 19.96
+12:30:54 - Stationary order no. 19 prepared
+	4x Giga burger 17.99 | 71.96
+	3x Mały burger 8.99 | 26.97
+12:31:58 - Stationary order no. 20 prepared
+	4x Średni kebab 13.0 | 52.0
+	1x Giga burger 17.99 | 17.99
+	2x Duży kebab 18.0 | 36.0
+	3x Giga burger 17.99 | 53.97
+12:32:50 - Stationary order no. 21 prepared
+	2x Małe frytki 4.99 | 9.98
+	4x Mały burger 8.99 | 35.96
+	2x Małe frytki 4.99 | 9.98
+12:32:56 - Stationary order no. 23 prepared
+	1x Małe frytki 4.99 | 4.99
+12:33:41 - Online order no. 2 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Mały kebab 10.0 | 20.0
+	1x Male Latte 9.99 | 9.99
+	3x Male Latte 9.99 | 29.97
+12:34:6 - Online order no. 4 prepared
+	2x Duży kebab 18.0 | 36.0
+	1x Male Latte 9.99 | 9.99
+	1x Duży kebab 18.0 | 18.0
+12:35:17 - Stationary order no. 25 prepared
+	4x Mały burger 8.99 | 35.96
+	3x Małe frytki 4.99 | 14.97
+	4x Małe frytki 4.99 | 19.96
+12:35:55 - Stationary order no. 26 prepared
+	2x Małe frytki 4.99 | 9.98
+	4x Giga burger 17.99 | 71.96
+12:36:8 - Online order no. 5 prepared
+	1x Średni kebab 13.0 | 13.0
+	1x Mały kebab 10.0 | 10.0
+12:36:46 - Online order no. 6 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Duży kebab 18.0 | 36.0
+	3x Male Latte 9.99 | 29.97
+12:37:50 - Online order no. 7 prepared
+	2x Duży kebab 18.0 | 36.0
+	3x Mały kebab 10.0 | 30.0
+	4x Male Latte 9.99 | 39.96
+	1x Duży kebab 18.0 | 18.0
+12:39:7 - Stationary order no. 30 prepared
+	4x Giga burger 17.99 | 71.96
+	4x Duży kebab 18.0 | 72.0
+	4x Male Latte 9.99 | 39.96
+12:39:33 - Stationary order no. 31 prepared
+	4x Małe frytki 4.99 | 19.96
+12:40:5 - Stationary order no. 34 prepared
+	2x Duży kebab 18.0 | 36.0
+	1x Małe frytki 4.99 | 4.99
+	2x Mały kebab 10.0 | 20.0
+12:40:11 - Online order no. 8 prepared
+	1x Mały kebab 10.0 | 10.0
+12:41:15 - Online order no. 10 prepared
+	2x Średni kebab 13.0 | 26.0
+	1x Małe frytki 4.99 | 4.99
+	3x Duży kebab 18.0 | 54.0
+	4x Mały kebab 10.0 | 40.0
+12:42:4 - Stationary order no. 35 prepared
+	3x Średni kebab 13.0 | 39.0
+	2x Małe frytki 4.99 | 9.98
+	3x Mały burger 8.99 | 26.97
+12:42:42 - Online order no. 12 prepared
+	2x Giga burger 17.99 | 35.98
+	4x Mały burger 8.99 | 35.96
+12:43:40 - Online order no. 13 prepared
+	3x Mały kebab 10.0 | 30.0
+	2x Mały kebab 10.0 | 20.0
+	4x Mały burger 8.99 | 35.96
+12:43:59 - Stationary order no. 38 prepared
+	3x Średni kebab 13.0 | 39.0
+12:44:37 - Stationary order no. 39 prepared
+	3x Średni kebab 13.0 | 39.0
+	3x Giga burger 17.99 | 53.97
+12:45:16 - Stationary order no. 41 prepared
+	4x Średni kebab 13.0 | 52.0
+	2x Mały burger 8.99 | 17.98
+12:45:41 - Stationary order no. 42 prepared
+	2x Mały kebab 10.0 | 20.0
+	2x Male Latte 9.99 | 19.98
+12:46:7 - Online order no. 18 prepared
+	4x Giga burger 17.99 | 71.96
+12:46:13 - Stationary order no. 43 prepared
+	1x Giga burger 17.99 | 17.99
+12:46:58 - Online order no. 22 prepared
+	1x Male Latte 9.99 | 9.99
+	2x Mały kebab 10.0 | 20.0
+	4x Giga burger 17.99 | 71.96
+12:47:56 - Stationary order no. 46 prepared
+	2x Mały kebab 10.0 | 20.0
+	3x Mały kebab 10.0 | 30.0
+	4x Mały kebab 10.0 | 40.0
+12:48:9 - Online order no. 24 prepared
+	2x Małe frytki 4.99 | 9.98
+12:48:53 - Online order no. 27 prepared
+	4x Mały burger 8.99 | 35.96
+	3x Mały burger 8.99 | 26.97
+12:50:10 - Stationary order no. 48 prepared
+	3x Mały burger 8.99 | 26.97
+	4x Średni kebab 13.0 | 52.0
+	3x Mały kebab 10.0 | 30.0
+	2x Male Latte 9.99 | 19.98
+12:50:29 - Online order no. 28 prepared
+	1x Mały burger 8.99 | 8.99
+	2x Małe frytki 4.99 | 9.98
+12:51:1 - Stationary order no. 51 prepared
+	4x Duży kebab 18.0 | 72.0
+	1x Duży kebab 18.0 | 18.0
+12:51:46 - Online order no. 29 prepared
+	4x Male Latte 9.99 | 39.96
+	3x Male Latte 9.99 | 29.97
+12:53:3 - Online order no. 32 prepared
+	1x Mały burger 8.99 | 8.99
+	3x Mały burger 8.99 | 26.97
+	4x Mały burger 8.99 | 35.96
+	4x Mały burger 8.99 | 35.96
+12:53:9 - Stationary order no. 54 prepared
+	1x Male Latte 9.99 | 9.99
+12:53:29 - Stationary order no. 55 prepared
+	2x Giga burger 17.99 | 35.98
+	1x Średni kebab 13.0 | 13.0
+12:53:48 - Online order no. 33 prepared
+	3x Giga burger 17.99 | 53.97
+20.05.2022, 13:34:20 - Kitchen start working
+20.05.2022, 13:36:32 - Kitchen start working
+20.05.2022, 13:41:14 - Kitchen start working
+13:42:5 - Stationary order no. 2 prepared
+	1x Giga burger 17.99 | 17.99
+	4x Mały burger 8.99 | 35.96
+	2x Mały kebab 10.0 | 20.0
+	3x Duży kebab 18.0 | 54.0
+13:42:10 - Stationary order no. 3 prepared
+	1x Średni kebab 13.0 | 13.0
+13:42:25 - Stationary order no. 4 prepared
+	3x Male Latte 9.99 | 29.97
+13:42:36 - Stationary order no. 5 prepared
+	2x Mały kebab 10.0 | 20.0
+13:42:46 - Stationary order no. 6 prepared
+	2x Mały burger 8.99 | 17.98
+13:43:1 - Stationary order no. 7 prepared
+	3x Mały burger 8.99 | 26.97
+13:43:47 - Stationary order no. 8 prepared
+	2x Mały kebab 10.0 | 20.0
+	1x Średni kebab 13.0 | 13.0
+	2x Giga burger 17.99 | 35.98
+	4x Male Latte 9.99 | 39.96
+13:44:13 - Stationary order no. 9 prepared
+	3x Mały kebab 10.0 | 30.0
+	2x Mały burger 8.99 | 17.98
+20.05.2022, 13:44:38 - Kitchen start working
+13:45:9 - Stationary order no. 1 prepared
+	4x Giga burger 17.99 | 71.96
+	2x Mały kebab 10.0 | 20.0
+20.05.2022, 13:49:22 - Kitchen start working

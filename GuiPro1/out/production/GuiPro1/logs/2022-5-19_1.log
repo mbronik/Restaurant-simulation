@@ -1,0 +1,180 @@
+1:40:11 - Items loaded from memory
+1:40:11 - The kitchen changes status to open
+1:40:11 - The machine placed a random order no.1
+1:40:11 - The machine placed a random order no.2
+1:40:11 - The machine placed a random order no.3
+1:40:11 - The machine placed a random order no.4
+1:40:11 - The machine placed a random order no.5
+1:40:11 - The machine placed a random order no.6
+1:40:11 - The machine placed a random order no.7
+1:40:11 - The machine placed a random order no.8
+1:40:11 - The machine placed a random order no.9
+1:40:11 - The machine placed a random order no.10
+1:40:18 - Logged in as admin
+1:40:21 - The machine placed a random order no.11
+1:40:39 - Admin logged out
+1:40:48 - The machine placed a random order no.13
+1:40:52 - The kitchen has completed the order no.1
+1:40:52 - The waiter Marian Paździoch finished the order and got a tip 110.0 PLN
+1:41:17 - The kitchen has completed the order no.4
+1:41:17 - The waiter Olga Brzoza finished the order and got a tip 44.0 PLN
+1:41:28 - The kitchen has completed the order no.5
+1:41:28 - The waiter Olga Brzoza finished the order and got a tip 18.0 PLN
+1:41:30 - The machine placed a random order no.14
+1:41:42 - Real person placed the order no.12
+1:41:53 - Logged in as admin
+1:42:9 - The kitchen has completed the order no.6
+1:42:9 - The waiter Olga Brzoza finished the order and got a tip 77.0 PLN
+1:42:26 - The machine placed a random order no.15
+1:42:39 - The machine placed a random order no.16
+1:42:39 - The machine placed a random order no.17
+1:43:0 - The kitchen has completed the order no.7
+1:43:0 - The waiter Marian Paździoch finished the order and got a tip 60.0 PLN
+1:43:15 - The kitchen has completed the order no.9
+1:43:15 - The waiter Olga Brzoza finished the order and got a tip 31.0 PLN
+1:43:31 - The kitchen has completed the order no.11
+1:43:31 - The waiter Marian Paździoch finished the order and got a tip 11.0 PLN
+1:43:34 - The machine placed a random order no.18
+1:44:6 - The kitchen has completed the order no.12
+1:44:6 - The waiter Olga Brzoza finished the order and got a tip 54.0 PLN
+1:44:31 - The machine placed a random order no.19
+1:44:33 - The machine placed a random order no.20
+1:44:52 - The kitchen has completed the order no.14
+1:44:52 - The waiter Olga Brzoza finished the order and got a tip 78.0 PLN
+1:45:19 - The machine placed a random order no.21
+1:45:39 - The kitchen has completed the order no.15
+1:45:39 - The waiter Marian Paździoch finished the order and got a tip 95.0 PLN
+1:45:59 - The kitchen has completed the order no.16
+1:45:59 - The waiter Marian Paździoch finished the order and got a tip 31.0 PLN
+1:46:4 - A new item (test) has been added to the menu
+1:46:4 - The kitchen has completed the order no.17
+1:46:4 - The waiter Olga Brzoza finished the order and got a tip 9.0 PLN
+1:46:13 - The machine placed a random order no.22
+1:46:14 - Menu file updated
+1:46:14 - Item removed at ID=9 (test)
+1:46:30 - The kitchen has completed the order no.19
+1:46:30 - The waiter Olga Brzoza finished the order and got a tip 64.0 PLN
+1:46:32 - Menu file updated
+1:46:32 - Item availability changed with id=8 to false
+1:46:37 - The machine placed a random order no.23
+1:46:40 - The kitchen has completed the order no.2
+1:46:40 - Deliverer Roman Kurski (tel. 223182091)
+		starting delivery of the order no.2 from the hour 01:40:11
+1:46:50 - Menu file updated
+1:46:50 - Item availability changed with id=8 to true
+1:47:12 - The machine placed a random order no.24
+1:47:15 - Delivery no.2 has been delivered to Wojciecha Gorskiego 32
+1:47:15 - The deliverer Roman Kurski got a tip 10.0PLN
+1:47:15 - Admin logged out
+1:47:36 - The kitchen has completed the order no.23
+1:47:36 - The waiter Olga Brzoza finished the order and got a tip 162.0 PLN
+1:47:58 - The machine placed a random order no.25
+1:48:17 - The kitchen has completed the order no.24
+1:48:17 - The waiter Marian Paździoch finished the order and got a tip 90.0 PLN
+1:48:38 - The kitchen has completed the order no.3
+1:48:38 - Deliverer Karol Krawczyk (tel. 131019980)
+		starting delivery of the order no.3 from the hour 01:40:11
+1:48:57 - The machine placed a random order no.26
+1:49:5 - The machine placed a random order no.27
+1:49:8 - Delivery no.3 has been delivered to Wojciecha Gorskiego 63
+1:49:8 - The deliverer Karol Krawczyk got a tip 28.0PLN
+1:49:14 - The kitchen has completed the order no.8
+1:49:14 - Deliverer Roman Kurski (tel. 223182091)
+		starting delivery of the order no.8 from the hour 01:40:11
+1:49:28 - The machine placed a random order no.28
+1:49:41 - Delivery no.8 has been delivered to Wojciecha Gorskiego 48
+1:49:41 - The deliverer Roman Kurski got a tip 33.0PLN
+1:50:3 - The machine placed a random order no.29
+1:50:5 - The kitchen has completed the order no.27
+1:50:5 - The waiter Olga Brzoza finished the order and got a tip 87.0 PLN
+1:50:42 - The machine placed a random order no.30
+1:50:56 - The kitchen has completed the order no.28
+1:50:56 - The waiter Olga Brzoza finished the order and got a tip 60.0 PLN
+1:51:5 - The machine placed a random order no.31
+1:51:47 - The machine placed a random order no.32
+1:51:51 - The kitchen has completed the order no.29
+1:51:51 - The waiter Olga Brzoza finished the order and got a tip 148.0 PLN
+1:52:6 - The machine placed a random order no.33
+1:52:6 - The kitchen has completed the order no.31
+1:52:6 - The waiter Marian Paździoch finished the order and got a tip 50.0 PLN
+1:52:42 - The kitchen has completed the order no.32
+1:52:42 - The waiter Olga Brzoza finished the order and got a tip 51.0 PLN
+1:53:1 - The machine placed a random order no.34
+1:53:8 - The kitchen has completed the order no.10
+1:53:8 - Deliverer Michal Kozak (tel. 370336676)
+		starting delivery of the order no.10 from the hour 01:40:11
+1:53:28 - The kitchen has completed the order no.13
+1:53:28 - Deliverer Arnold Boczek (tel. 222127222)
+		starting delivery of the order no.13 from the hour 01:40:48
+1:53:42 - Delivery no.13 has been delivered to Wojciecha Gorskiego 40
+1:53:42 - The deliverer Arnold Boczek got a tip 5.0PLN
+1:53:50 - Delivery no.10 has been delivered to Wojciecha Gorskiego 40
+1:53:50 - The deliverer Michal Kozak got a tip 6.0PLN
+1:53:53 - The machine placed a random order no.35
+1:53:54 - The kitchen has completed the order no.18
+1:53:54 - Deliverer Roman Kurski (tel. 223182091)
+		starting delivery of the order no.18 from the hour 01:43:34
+1:54:19 - The kitchen has completed the order no.20
+1:54:19 - Deliverer Arnold Boczek (tel. 222127222)
+		starting delivery of the order no.20 from the hour 01:44:33
+1:54:20 - The machine placed a random order no.36
+1:54:24 - The machine placed a random order no.37
+1:54:24 - The kitchen has completed the order no.21
+1:54:24 - Deliverer Edward Listonosz (tel. 604114771)
+		starting delivery of the order no.21 from the hour 01:45:19
+1:54:35 - The kitchen has completed the order no.36
+1:54:35 - The waiter Marian Paździoch finished the order and got a tip 26.0 PLN
+1:54:42 - Delivery no.21 has been delivered to Kubusia Puchatka 35
+1:54:42 - The deliverer Edward Listonosz got a tip 1.0PLN
+1:54:48 - Delivery no.18 has been delivered to Wojciecha Gorskiego 47
+1:54:48 - The deliverer Roman Kurski got a tip 18.0PLN
+1:54:50 - The machine placed a random order no.38
+1:55:0 - The kitchen has completed the order no.37
+1:55:0 - The waiter Olga Brzoza finished the order and got a tip 54.0 PLN
+1:55:16 - Delivery no.20 has been delivered to Biala 21
+1:55:16 - The deliverer Arnold Boczek got a tip 23.0PLN
+1:55:30 - The machine placed a random order no.39
+1:55:36 - The kitchen has completed the order no.22
+1:55:36 - Deliverer Michal Kozak (tel. 370336676)
+		starting delivery of the order no.22 from the hour 01:46:13
+1:55:48 - The machine placed a random order no.40
+1:55:55 - Delivery no.22 has been delivered to Bartycka 76
+1:55:55 - The deliverer Michal Kozak got a tip 40.0PLN
+1:56:2 - The kitchen has completed the order no.25
+1:56:2 - Deliverer Edward Listonosz (tel. 604114771)
+		starting delivery of the order no.25 from the hour 01:47:58
+1:56:12 - The kitchen has completed the order no.26
+1:56:12 - Deliverer Karol Krawczyk (tel. 131019980)
+		starting delivery of the order no.26 from the hour 01:48:57
+1:56:32 - Delivery no.26 has been delivered to Wojciecha Gorskiego 50
+1:56:32 - The deliverer Karol Krawczyk got a tip 16.0PLN
+1:56:32 - Delivery no.25 has been delivered to Graniczna 66
+1:56:32 - The deliverer Edward Listonosz got a tip 35.0PLN
+1:56:43 - The machine placed a random order no.41
+1:56:53 - The kitchen has completed the order no.30
+1:56:53 - Deliverer Michal Kozak (tel. 370336676)
+		starting delivery of the order no.30 from the hour 01:50:42
+1:57:15 - Delivery no.30 has been delivered to Wojciecha Gorskiego 74
+1:57:15 - The deliverer Michal Kozak got a tip 59.0PLN
+1:57:19 - The kitchen has completed the order no.33
+1:57:19 - Deliverer Arnold Boczek (tel. 222127222)
+		starting delivery of the order no.33 from the hour 01:52:06
+1:57:34 - The machine placed a random order no.42
+1:57:54 - The kitchen has completed the order no.34
+1:57:54 - Deliverer Edward Listonosz (tel. 604114771)
+		starting delivery of the order no.34 from the hour 01:53:01
+1:58:11 - Delivery no.33 has been delivered to Graniczna 78
+1:58:11 - The deliverer Arnold Boczek got a tip 26.0PLN
+1:58:24 - Delivery no.34 has been delivered to Kubusia Puchatka 12
+1:58:24 - The deliverer Edward Listonosz got a tip 77.0PLN
+1:58:31 - The machine placed a random order no.43
+1:58:32 - The machine placed a random order no.44
+1:58:35 - The kitchen has completed the order no.42
+1:58:35 - The waiter Marian Paździoch finished the order and got a tip 83.0 PLN
+1:58:56 - The kitchen has completed the order no.35
+1:58:56 - Deliverer Edward Listonosz (tel. 604114771)
+		starting delivery of the order no.35 from the hour 01:53:53
+1:58:56 - Logged in as admin
+1:58:58 - The restaurant changes status to close
+1:59:2 - Admin forced the termination of kitchens and suppliers
+1:59:2 - Closing the application

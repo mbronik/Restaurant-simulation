@@ -1,0 +1,8 @@
+1|Mały burger|8.99|true|Standardowy burger
+2|Giga burger|17.99|true|Duży burger, duża ilość sera
+3|Mały kebab|10.0|true|Kebab z baranina
+4|Średni kebab|13.0|true|Kebab z baranina
+5|Duży kebab|18.0|true|Kebab z baranina
+6|Małe frytki|4.99|true|Frytki proste (100 gram)
+7|Male Latte|9.99|true|Latte z ekspresu (150 ml)
+8|Duże frytki|7.99|true|Frytki proste (200 gram)

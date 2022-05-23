@@ -1,0 +1,45 @@
+13:40:16 - Items loaded from memory
+13:40:16 - The machine placed a random order no.1
+13:40:16 - The machine placed a random order no.2
+13:40:16 - The machine placed a random order no.3
+13:40:16 - The machine placed a random order no.4
+13:40:16 - The machine placed a random order no.5
+13:40:16 - The machine placed a random order no.6
+13:40:16 - The machine placed a random order no.7
+13:40:16 - The machine placed a random order no.8
+13:40:16 - The machine placed a random order no.9
+13:40:16 - The machine placed a random order no.10
+13:40:22 - Logged in as admin
+13:41:14 - The restaurant changes status to open
+13:41:14 - The kitchen changes status to open
+13:41:24 - The machine placed a random order no.11
+13:41:34 - The machine placed a random order no.12
+13:41:44 - The machine placed a random order no.13
+13:42:5 - The kitchen has completed the order no.2
+13:42:5 - The waiter Marian Paździoch took the order to the table no.0
+	and got a tip 11.0 PLN
+13:42:10 - The kitchen has completed the order no.3
+13:42:10 - The waiter Elżbieta Chojnicka took the order to the table no.71
+	and got a tip 1.0 PLN
+13:42:20 - The machine placed a random order no.14
+13:42:21 - The restaurant changes status to close
+13:42:25 - The kitchen has completed the order no.4
+13:42:25 - The waiter Marian Paździoch took the order to the table no.3
+	and got a tip 2.0 PLN
+13:42:36 - The kitchen has completed the order no.5
+13:42:36 - The waiter Ryszard Lubicz took the order to the table no.6
+	and got a tip 1.0 PLN
+13:42:46 - The kitchen has completed the order no.6
+13:42:46 - The waiter Marian Paździoch took the order to the table no.73
+	and got a tip 1.0 PLN
+13:43:1 - The kitchen has completed the order no.7
+13:43:1 - The waiter Elżbieta Chojnicka took the order to the table no.90
+	and got a tip 2.0 PLN
+13:43:47 - The kitchen has completed the order no.8
+13:43:47 - The waiter Ryszard Lubicz took the order to the table no.30
+	and got a tip 8.0 PLN
+13:44:13 - The kitchen has completed the order no.9
+13:44:13 - The waiter Elżbieta Chojnicka took the order to the table no.11
+	and got a tip 3.0 PLN
+13:44:22 - Admin forced the termination of kitchens and suppliers
+13:44:22 - Closing the application
